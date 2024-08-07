@@ -10,9 +10,6 @@
     "start": "next start",
     "dev": "next dev"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "puppeteer": "^13.5.0",
     "lighthouse": "^8.6.0",
