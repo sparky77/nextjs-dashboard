@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node index.js", 
+    "start": "node index.js",
     "build": "npm install && npm run build"
   },
   "deploy": {
