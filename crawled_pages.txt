@@ -1,0 +1,59 @@
+URL: https://teststore.automationtesting.co.uk/index.php, Title: Test Store, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?controller=contact, Title: Contact us, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?controller=authentication?back=https%3A%2F%2Fteststore.automationtesting.co.uk%2Findex.php%3Fcontroller%3Dcontact, Title: Login, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?controller=authentication?back=https%3A%2F%2Fteststore.automationtesting.co.uk%2Findex.php%3Fcontroller%3Dauthentication%3Fback%3Dhttps%253A%252F%252Fteststore.automationtesting.co.uk%252Findex.php%253Fcontroller%253Dcontact, Title: Login, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_category=3&controller=category, Title: Clothes, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_category=4&controller=category, Title: Men, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_category=5&controller=category, Title: Women, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_category=6&controller=category, Title: Accessories, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_category=7&controller=category, Title: Stationery, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_category=8&controller=category, Title: Home Accessories, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_category=9&controller=category, Title: Art, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?controller=password, Title: Forgot your password, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?controller=registration, Title: Registration, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?controller=prices-drop, Title: Prices drop, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?controller=new-products, Title: New products, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?controller=best-sales, Title: Best sellers, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_cms=1&controller=cms, Title: Delivery, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_cms=2&controller=cms, Title: Legal Notice, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_cms=3&controller=cms, Title: Terms and conditions of use, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_cms=4&controller=cms, Title: About us, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_cms=5&controller=cms, Title: Secure payment, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?controller=sitemap, Title: Sitemap, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?controller=stores, Title: Stores, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?controller=my-account, Title: Login, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?controller=guest-tracking, Title: Guest tracking, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?fc=module&module=ps_emailalerts&controller=account, Title: Login, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?controller=authentication, Title: Login, Crawled: true
+URL: https://www.prestashop-project.org/, Title: PrestaShop Project - Open Source e-Commerce platform, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?controller=authentication?back=https%3A%2F%2Fteststore.automationtesting.co.uk%2Findex.php, Title: Login, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?controller=authentication?back=https%3A%2F%2Fteststore.automationtesting.co.uk%2Findex.php%3Fcontroller%3Dauthentication%3Fback%3Dhttps%253A%252F%252Fteststore.automationtesting.co.uk%252Findex.php, Title: Login, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?controller=authentication?back=https%3A%2F%2Fteststore.automationtesting.co.uk%2Findex.php%3Fcontroller%3Dauthentication%3Fback%3Dhttps%253A%252F%252Fteststore.automationtesting.co.uk%252Findex.php%253Fcontroller%253Dauthentication%253Fback%253Dhttps%25253A%25252F%25252Fteststore.automationtesting.co.uk%25252Findex.php, Title: Login, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php#carousel, Title: Test Store, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=1&id_product_attribute=1&rewrite=hummingbird-printed-t-shirt&controller=product#/1-size-s/8-color-white, Title: Hummingbird printed t-shirt, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?controller=authentication?back=https%3A%2F%2Fteststore.automationtesting.co.uk%2Findex.php%3Fid_product%3D1%26id_product_attribute%3D1%26rewrite%3Dhummingbird-printed-t-shirt%26controller%3Dproduct, Title: Login, Crawled: true
+URL: https://www.facebook.com/sharer.php?u=https%3A%2F%2Fteststore.automationtesting.co.uk%2Findex.php%3Fid_product%3D1%26rewrite%3Dhummingbird-printed-t-shirt%26controller%3Dproduct, Title: Facebook, Crawled: true
+URL: https://twitter.com/intent/tweet?text=Hummingbird+printed+t-shirt%20https%3A%2F%2Fteststore.automationtesting.co.uk%2Findex.php%3Fid_product%3D1%26rewrite%3Dhummingbird-printed-t-shirt%26controller%3Dproduct, Title: , Crawled: true
+URL: https://www.pinterest.com/pin/create/button/?media=https%3A%2F%2Fteststore.automationtesting.co.uk%2Fimg%2Fp%2F1%2F1.jpg&url=https%3A%2F%2Fteststore.automationtesting.co.uk%2Findex.php%3Fid_product%3D1%26rewrite%3Dhummingbird-printed-t-shirt%26controller%3Dproduct, Title: Pinterest, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=1&id_product_attribute=1&rewrite=hummingbird-printed-t-shirt&controller=product#description, Title: Hummingbird printed t-shirt, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=1&id_product_attribute=1&rewrite=hummingbird-printed-t-shirt&controller=product#product-details, Title: Hummingbird printed t-shirt, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_manufacturer=1&controller=manufacturer, Title: Studio Design, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php#, Title: Test Store, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=1&id_product_attribute=3&rewrite=hummingbird-printed-t-shirt&controller=product#/2-size-m/8-color-white, Title: Hummingbird printed t-shirt, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=1&id_product_attribute=2&rewrite=hummingbird-printed-t-shirt&controller=product#/1-size-s/11-color-black, Title: Hummingbird printed t-shirt, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=2&id_product_attribute=9&rewrite=brown-bear-printed-sweater&controller=product#/1-size-s, Title: Hummingbird printed sweater, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=3&id_product_attribute=13&rewrite=the-best-is-yet-to-come-framed-poster&controller=product#/19-dimension-40x60cm, Title: The best is yet to come' Framed poster, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=4&id_product_attribute=16&rewrite=the-adventure-begins-framed-poster&controller=product#/19-dimension-40x60cm, Title: The adventure begins Framed poster, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=5&id_product_attribute=19&rewrite=today-is-a-good-day-framed-poster&controller=product#/19-dimension-40x60cm, Title: Today is a good day Framed poster, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=6&rewrite=mug-the-best-is-yet-to-come&controller=product, Title: Mug The best is yet to come, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=7&rewrite=mug-the-adventure-begins&controller=product, Title: Mug The adventure begins, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=8&rewrite=mug-today-is-a-good-day&controller=product, Title: Mug Today is a good day, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_category=2&controller=category, Title: Home, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=19&rewrite=customizable-mug&controller=product, Title: Customizable mug, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=18&id_product_attribute=36&rewrite=hummingbird-notebook&controller=product#/22-paper_type-ruled, Title: Hummingbird notebook, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=17&id_product_attribute=32&rewrite=brown-bear-notebook&controller=product#/22-paper_type-ruled, Title: Brown bear notebook, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=16&id_product_attribute=28&rewrite=mountain-fox-notebook&controller=product#/22-paper_type-ruled, Title: Mountain fox notebook, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=15&rewrite=pack-mug-framed-poster&controller=product, Title: Pack Mug + Framed poster, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=14&rewrite=hummingbird-vector-graphics&controller=product, Title: Hummingbird - Vector graphics, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=13&rewrite=brown-bear-vector-graphics&controller=product, Title: Brown bear - Vector graphics, Crawled: true
+URL: https://teststore.automationtesting.co.uk/index.php?id_product=12&rewrite=mountain-fox-vector-graphics&controller=product, Title: Mountain fox - Vector graphics, Crawled: true
