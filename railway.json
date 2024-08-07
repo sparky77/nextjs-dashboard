@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node index.js", // Adjust this based on your entry file
+    "build": "npm install && npm run build" // If you have a build step
+  },
+  "deploy": {
+    "buildCommand": "npm install",
+    "startCommand": "npm start"
+  }
+}
