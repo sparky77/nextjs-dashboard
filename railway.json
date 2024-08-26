@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "next start",
+    "build": "npm install && next build"
+  },
+  "deploy": {
+    "buildCommand": "npm install && npm run build",
+    "startCommand": "npm start"
+  }
+}
